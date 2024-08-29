@@ -51,6 +51,16 @@ It will also save a graph as `price_prediction.png` in the current directory.
 - fredapi
 - tkinter
 
+## Results
+
+Here are some example outputs from the Housing Price Prediction Tool:
+
+![Price Prediction Graph](price_predictionPA.png)
+*Price prediction graph for a PA*
+
+![Price Prediction Graph](price_predictionCA.png)
+*Price prediction graph for a CA*
+
 ## Note
 
 This tool uses a simple projection method for future prices and should not be used for actual financial decisions. The median home prices are placeholder values and should be updated with real data for accurate results.
